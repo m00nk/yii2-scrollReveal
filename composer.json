@@ -3,7 +3,7 @@
     "description" : "ScrollReveal for Yii2",
     "type": "yii2-extension",
     "license": "MIT",
-    "version" : "1.0.0",
+    "version" : "1.0.1",
     "authors": [
         {
             "name": "Dmitrij Sheremetjev",
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "m00nk\\scrollreveal\\": ""
+            "m00nk\\scrollReveal\\": ""
         }
     }
 }
