@@ -4,7 +4,7 @@
  * Date: 2/3/18, Time: 1:15 AM
  */
 
-namespace m00nk\scrollReveal;
+namespace m00nk\scrollreveal;
 
 use Yii;
 use yii\base\Widget;
